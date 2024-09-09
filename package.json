@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/light-summer-project/",
+    "build": "vite build --base=/js_107_RamiiaHolomoza/",
     "preview": "vite preview"
   },
   "devDependencies": {
